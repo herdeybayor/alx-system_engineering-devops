@@ -8,3 +8,4 @@
 	- Long format
 	- with user and group IDs displayed numerically
 	- And hidden files \(starting with .\)
+- 6-firstdirectory: creates a directory named my\_first\_directory in the /tmp/ directory.
